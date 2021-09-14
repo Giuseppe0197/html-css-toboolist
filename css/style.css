@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+
+#logo {
+    height: 70px;
+    line-height: 70px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+#logotext {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+/* main */
